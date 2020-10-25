@@ -1,1 +1,1 @@
-# Student-detials-entry-
+Student Data Details Project
